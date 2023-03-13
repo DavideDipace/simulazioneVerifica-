@@ -1,6 +1,6 @@
-p{
-    font-family: "Courier New";
+.testo {
+    font-family: 'Courier New';
 }
-html{
+.verde {
     background-color: green;
 }
